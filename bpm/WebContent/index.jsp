@@ -11,7 +11,7 @@
 <body>
 <ul>
 <li><a href="showStructure">Structure</a></li>
-<li><a href="test">test</a></li>
+<li><a href="test">test one</a></li>
 </ul>
 </body>
 </html>
